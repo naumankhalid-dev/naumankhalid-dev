@@ -1,21 +1,24 @@
 <h1 align="center">Hi 👋, I'm Nauman Khalid</h1>
-<h3 align="center">Java & Android Developer from Pakistan | Learning Full-Stack Development with Python, React & Node.js</h3>
+<h3 align="center">Java & Android Developer from Pakistan | Exploring AI, Machine Learning, and Data-Driven Applications</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naumankhalid-dev&label=Profile%20views&color=0e75b6&style=flat" alt="naumankhalid-dev" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=naumankhalid-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="naumankhalid-dev" />
+</p>
 
-- 🔭 I’m currently working on [FitTrackX Android App.](https://github.com/naumankhalid-dev/FitTrackX)
+- 🔭 I’m currently working on [FitTrackX Android App](https://github.com/naumankhalid-dev/FitTrackX) and Data Analysis Projects on Python.
 
-- 🌱 I’m currently seeking **internship opportunities to apply and grow my Android and backend development skills.**
+- 🌱 Actively seeking **internship opportunities** to apply and grow my Android, backend, and AI/data analysis skills.
 
-- 👯 I’m looking to collaborate on **Android apps and beginner backend projects with Python or Node.js.**
+- 👯 I’m open to collaborating on **Android apps, backend projects , and AI/data-driven applications**.
 
-- 💬 Ask me about **Java , SQL/SQLite , Android Studio , Python , Assembly Language**
+- 💬 Ask me about **Python, Java, SQL/SQLite, Android Studio, Assembly Language**.
 
-- 📫 How to reach me **ssuetian147@gmail.com**
+- 📫 How to reach me: **naumankhalid1331@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/1/folders/14YizzeFNTCY4dO_LILSX2LDAVGYKNStu](https://drive.google.com/drive/u/1/folders/14YizzeFNTCY4dO_LILSX2LDAVGYKNStu)
+- 📄 View my CV: [Nauman Khalid - CV](https://drive.google.com/file/d/1fqtgCVAdov1NXHLTjIQs5kuyNzLyBn9j/view?usp=sharing)
 
-- ⚡ Fun fact **I’m more comfortable writing code than small talk.**
+- ⚡ Fun fact: **I’m more comfortable writing code than making small talk.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
