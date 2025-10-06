@@ -15,7 +15,7 @@
 
 - 📫 How to reach me: **naumankhalid1331@gmail.com**
 
-- 📄 View my CV: [Nauman Khalid - CV](https://drive.google.com/file/d/1fqtgCVAdov1NXHLTjIQs5kuyNzLyBn9j/view?usp=sharing)
+- 📄 View my CV: [Nauman Khalid - CV](https://drive.google.com/file/d/1B8tV4Lj_wy2IRkw0xhhPO0KQZbb_la0a/view?usp=sharing)
 
 - ⚡ Fun fact: **I’m more comfortable writing code than making small talk.**
 
