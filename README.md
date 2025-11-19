@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Nauman Khalid</h1>
-<h3 align="center">Java & Android Developer from Pakistan | Exploring AI, Machine Learning, and Data-Driven Applications</h3>
+<h3 align="center">Java & Android Developer | Exploring AI, Machine Learning & Data-Driven Systems</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=naumankhalid-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="naumankhalid-dev" />
 </p>
 
-- 🔭 I’m currently working on Data Analysis and Machine Learning Projects on Python.
+- 🔭 Currently building **Data Analysis and Machine Learning projects** using Python.
 
-- 🌱 Actively seeking **internship opportunities** to apply and grow my Android, backend, and AI/data analysis skills.
+- 🌱 Expanding my expertise in **Backend engineering, and AI/ML technologies**.
 
-- 👯 I’m open to collaborating on **Android apps, backend projects , and AI/data-driven applications**.
+- 👯 Open to collaborating on **Android applications, backend systems, and data-driven/AI-based solutions**.
 
-- 💬 Ask me about **Python, Java, SQL/SQLite, Android Studio, Assembly Language**.
+- 💬 Ask me about **Python, Java, SQL/SQLite, Android Studio, and Assembly Language**.
 
-- 📫 How to reach me: **naumankhalid1331@gmail.com**
+- 📫 Contact me at: **naumankhalid1331@gmail.com**
 
 - 📄 View my CV: [Nauman Khalid - CV](https://drive.google.com/file/d/1B8tV4Lj_wy2IRkw0xhhPO0KQZbb_la0a/view?usp=sharing)
 
