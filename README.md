@@ -49,7 +49,7 @@ I currently focus on:
 
 - **Email**: naumankhalid1331@gmail.com
 - **LinkedIn**: [nauman-khalid](https://www.linkedin.com/in/nauman-khalid-58a2692a0)
-- **CV**: [View Resume](https://drive.google.com/file/d/1B8tV4Lj_wy2IRkw0xhhPO0KQZbb_la0a/view?usp=sharing)
+- **CV**: [View Resume](https://drive.google.com/file/d/1mK-kbuNH-8KLxY0lrP___nRFLbHTKlD1/view?usp=sharing)
 
 ---
 
