@@ -53,16 +53,3 @@ I currently focus on:
 
 ---
 
-## GitHub Stats
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naumankhalid-dev&show_icons=true&locale=en&layout=compact&theme=default" alt="naumankhalid-dev" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=naumankhalid-dev&show_icons=true&locale=en&theme=default" alt="naumankhalid-dev" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naumankhalid-dev&theme=default" alt="naumankhalid-dev" />
-</p>
